@@ -100,7 +100,8 @@ nav a {
 
 /* PROJECTS */
 
-.projects {
+.project-desc {
+  margin-bottom: 0;
   padding-bottom: 5.85rem;
 }
 
