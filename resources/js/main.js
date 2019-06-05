@@ -10,7 +10,7 @@ $(document).ready(function() {
     pauseOnFocus: false,
   });
 
-  var oldScrollTop;
+  var oldScrollTop = 0;
 
   $(window).scroll(function() {
 
